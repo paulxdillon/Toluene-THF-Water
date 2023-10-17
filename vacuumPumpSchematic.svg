@@ -1,0 +1,2954 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="285.33017mm"
+   height="136.24545mm"
+   viewBox="0 0 285.33017 136.24546"
+   version="1.1"
+   id="svg924"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="vacuumPumpSchematic.svg"
+   inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview926"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.7800105"
+     inkscape:cx="539.2066"
+     inkscape:cy="257.55299"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     showborder="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3446"
+       originx="-101.50189"
+       originy="-249.86112" />
+  </sodipodi:namedview>
+  <defs
+     id="defs921">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect31441"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect31437"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect31292"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect31288"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect31284"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect31280"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect29168"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect29035"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect28960"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect28371"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect27714"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect27386"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect27382"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect27378"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect26656"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect26547"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect25875"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect25810"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect25743"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect25596"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect25127"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect24906"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3496"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2749"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2011"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2007"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2732"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2558"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1695"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1691"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1687"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1683"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect16785"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect16589"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect16499"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect16132"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect15815"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect15656"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect15652"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect15648"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect12522"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect12155"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect12151"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect12075"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect10481"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect10379"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect10278"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect10209"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9983"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9979"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9975"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9971"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1663"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1604"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1537"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1428"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5937"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5403"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5201"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4157"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4129"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3924"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3904"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3407"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3387"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3367"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3339"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3291"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3271"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3074"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3054"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3034"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3006"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2986"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2966"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect26688"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect10390"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6946"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <rect
+       x="22.977182"
+       y="-104.16323"
+       width="219.81505"
+       height="68.165642"
+       id="rect2130" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect18046"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect18026"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect135984"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect124580"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect124229"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect101069"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect100560"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect100434"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect96985"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect96684"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect76234"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect75981"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect52689"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect52652"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect52500"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect45506"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect45111"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker22838"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836" />
+    </marker>
+    <marker
+       id="ExperimentalArrow"
+       refX="5"
+       refY="3"
+       orient="auto-start-reverse"
+       inkscape:stockid="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         style="fill:context-stroke"
+         d="M 10,3 0,6 V 0 Z"
+         id="path7315" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="SemiCircleOut"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="SemiCircleOut"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.6,0,0,0.6,4.2752958,0.4580676)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m -2.5,-0.80913858 c 0,2.75999998 -2.24,4.99999998 -5,4.99999998 v -10 c 2.76,0 5,2.24 5,5.00000002 z"
+         id="path7243" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22652"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path22650" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path7083" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22634"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path22632" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker19907"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path19905" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker19897"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path19895" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="EmptyTriangleOutL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="EmptyTriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         style="fill:context-fill;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7222" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7065" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker19533"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path19531" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7204" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker15224"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path15222" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker15214"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path15212" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7068" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7077" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker15188"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Sstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.3,0,0,0.3,-0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path15186" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Sstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Sstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.3,0,0,0.3,-0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path7092" />
+    </marker>
+    <rect
+       x="515.61328"
+       y="122.15277"
+       width="204.44518"
+       height="61.076385"
+       id="rect10279" />
+    <linearGradient
+       id="linearGradient9041"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop9039" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path7089" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8841"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path8839" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path7086" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7875"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7873" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7865"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7863" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7195" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7062" />
+    </marker>
+    <linearGradient
+       id="linearGradient6685"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#9e1e00;stop-opacity:1;"
+         offset="0"
+         id="stop6683" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6585"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6583" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6579"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6577" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6573"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#003200;stop-opacity:1;"
+         offset="0"
+         id="stop6571" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6567"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#003200;stop-opacity:1;"
+         offset="0"
+         id="stop6565" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6561"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#003200;stop-opacity:1;"
+         offset="0"
+         id="stop6559" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2778"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2776" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2694"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1518"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <symbol
+       id="Comment">
+      <title
+         id="title1159">Comment/Annotation</title>
+      <desc
+         id="desc1161">Additional descriptive clarification (connect by dotted line).</desc>
+      <path
+         d="m 35.71875,30.427083 h -31.75 V 9.2604167 h 31.75"
+         style="stroke-width:0.529167"
+         id="path1163" />
+    </symbol>
+    <symbol
+       id="AuxillaryOp">
+      <title
+         id="title1061">Auxiliary Operation</title>
+      <desc
+         id="desc1063">Offline operation.</desc>
+      <rect
+         x="9.260417"
+         y="9.260417"
+         width="21.166666"
+         height="21.166666"
+         style="stroke-width:0.529167"
+         id="rect1065" />
+    </symbol>
+    <marker
+       style="overflow:visible"
+       id="marker22838-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-36"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-36-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-9-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-36-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-9-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-7-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-0-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-7-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-0-33" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-7-3-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-0-33-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-7-3-8-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-0-33-9-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-36-2-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-9-9-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-7-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-0-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-7-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-0-36" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-7-3-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-0-33-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-7-3-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-0-33-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-7-3-74"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-0-33-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker22838-7-3-74-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path22836-0-33-1-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8841-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path8839-1" />
+    </marker>
+    <marker
+       id="ExperimentalArrow-2"
+       refX="5"
+       refY="3"
+       orient="auto-start-reverse"
+       inkscape:stockid="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         style="fill:context-stroke"
+         d="M 10,3 0,6 V 0 Z"
+         id="path7315-5" />
+    </marker>
+    <marker
+       id="ExperimentalArrow-0"
+       refX="5"
+       refY="3"
+       orient="auto-start-reverse"
+       inkscape:stockid="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         style="fill:context-stroke"
+         d="M 10,3 0,6 V 0 Z"
+         id="path7315-2" />
+    </marker>
+    <marker
+       id="ExperimentalArrow-6"
+       refX="5"
+       refY="3"
+       orient="auto-start-reverse"
+       inkscape:stockid="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         style="fill:context-stroke"
+         d="M 10,3 0,6 V 0 Z"
+         id="path7315-0" />
+    </marker>
+    <marker
+       id="ExperimentalArrow-09"
+       refX="5"
+       refY="3"
+       orient="auto-start-reverse"
+       inkscape:stockid="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         style="fill:context-stroke"
+         d="M 10,3 0,6 V 0 Z"
+         id="path7315-54" />
+    </marker>
+    <marker
+       id="ExperimentalArrow-6-5"
+       refX="5"
+       refY="3"
+       orient="auto-start-reverse"
+       inkscape:stockid="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         style="fill:context-stroke"
+         d="M 10,3 0,6 V 0 Z"
+         id="path7315-0-9" />
+    </marker>
+    <marker
+       id="ExperimentalArrow-3"
+       refX="5"
+       refY="3"
+       orient="auto-start-reverse"
+       inkscape:stockid="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         style="fill:context-stroke"
+         d="M 10,3 0,6 V 0 Z"
+         id="path7315-6" />
+    </marker>
+    <marker
+       id="marker1958"
+       refX="5"
+       refY="3"
+       orient="auto-start-reverse"
+       inkscape:stockid="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         style="fill:context-stroke"
+         d="M 10,3 0,6 V 0 Z"
+         id="path1956" />
+    </marker>
+    <marker
+       id="ExperimentalArrow-0-8"
+       refX="5"
+       refY="3"
+       orient="auto-start-reverse"
+       inkscape:stockid="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         style="fill:context-stroke"
+         d="M 10,3 0,6 V 0 Z"
+         id="path7315-2-5" />
+    </marker>
+    <marker
+       id="ExperimentalArrow-0-8-8"
+       refX="5"
+       refY="3"
+       orient="auto-start-reverse"
+       inkscape:stockid="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         style="fill:context-stroke"
+         d="M 10,3 0,6 V 0 Z"
+         id="path7315-2-5-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7875-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7873-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7875-4-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7873-1-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7875-4-1-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7873-1-7-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7875-4-1-2-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7873-1-7-4-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker19533-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path19531-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7204-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL-0-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7204-3-2" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-101.50189,-249.86107)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="108.1281"
+       y="375.52142"
+       id="text129208-1-0"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="108.1281"
+         y="375.52142"
+         id="tspan130028-9-4">Heat </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="108.68879"
+         y="379.93115"
+         id="tspan2917">Input </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="177.66573"
+       y="254.92311"
+       id="text129208-1-0-5"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="177.66573"
+         y="254.92311"
+         id="tspan130028-9-4-7">Primary </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="177.66573"
+         y="261.53769"
+         id="tspan8774">Condenser (20m<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan7645">2</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="247.6913"
+       y="253.8815"
+       id="text129208-1-0-5-14"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="247.6913"
+         y="253.8815"
+         id="tspan130028-9-4-7-57">Secondary </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="247.6913"
+         y="260.49609"
+         id="tspan8774-7">Condenser (10m<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan11867">2</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="332.11411"
+       y="263.30713"
+       id="text129208-1-0-5-14-3"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="332.11411"
+         y="263.30713"
+         id="tspan7193">Vacuum Pump </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="332.11411"
+         y="269.92172"
+         id="tspan16822">(SIHI-DRY 250)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="111.14989"
+       y="325.37753"
+       id="text129208-1-0-5-1"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="111.14989"
+         y="325.37753"
+         id="tspan130028-9-4-7-5">Reactor</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2128"
+       style="font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2130)" />
+    <rect
+       style="fill:#bde6dd;fill-opacity:1;stroke:#000000;stroke-width:0.639;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1393-0-1"
+       width="41.470562"
+       height="15.080208"
+       x="168.91467"
+       y="277.9183"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#bde6dd;fill-opacity:1;stroke:#000000;stroke-width:0.492306;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1393-0-1-2"
+       width="34.896732"
+       height="10.637275"
+       x="235.22701"
+       y="277.59912"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#bde6dd;fill-opacity:1;stroke:#000000;stroke-width:0.502668;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1463"
+       cx="137.03314"
+       cy="334.54767"
+       rx="19.012836"
+       ry="11.226861"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#bde6dd;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1463-5"
+       cx="335.19238"
+       cy="283.59213"
+       rx="5.9285245"
+       ry="5.6416721"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#bde6dd;fill-opacity:1;stroke:#000000;stroke-width:0.109587;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1463-5-1"
+       cx="315.55466"
+       cy="279.82611"
+       rx="3.9036193"
+       ry="1.1433029"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#bde6dd;fill-opacity:1;stroke:#000000;stroke-width:0.11012;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1463-5-1-3"
+       cx="315.55469"
+       cy="289.71997"
+       rx="3.9426141"
+       ry="1.1430364"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#bde6dd;fill-opacity:1;stroke:#000000;stroke-width:0.503772;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1463-2"
+       cx="136.99216"
+       cy="374.62833"
+       rx="18.889347"
+       ry="11.226309"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.13333;stroke-dasharray:none;stroke-opacity:1"
+       d="m 136.37891,322.99698 c 0.16297,-16.47445 0.32594,-32.94925 0.48891,-49.4244"
+       id="path2964"
+       inkscape:path-effect="#path-effect2966"
+       inkscape:original-d="m 136.37891,322.99698 c 0.16323,-16.47445 0.32619,-32.94925 0.48891,-49.4244"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.13333;stroke-dasharray:none;stroke-opacity:1"
+       d="m 142.9341,264.23139 c 9.45271,0.0546 18.90516,0.10927 28.35734,0.16391"
+       id="path2984"
+       inkscape:path-effect="#path-effect2986"
+       inkscape:original-d="m 142.9341,264.23139 c 9.45271,0.0549 18.90516,0.10954 28.35734,0.16391"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.484807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7865)"
+       d="m 175.71915,275.64955 c 0.063,-1.60284 0.12605,-3.20588 0.18909,-4.80914"
+       id="path3004"
+       inkscape:path-effect="#path-effect3006"
+       inkscape:original-d="m 175.71915,275.64955 c 0.0633,-1.60283 0.12635,-3.20587 0.18909,-4.80914"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.13333;stroke-dasharray:none;stroke-opacity:1"
+       d="m 136.86924,273.57456 c 0,-3.00485 0,-6.00996 1.01095,-7.5673 1.01096,-1.55733 3.03254,-1.66661 5.05391,-1.77587"
+       id="path3032"
+       inkscape:path-effect="#path-effect3034"
+       inkscape:original-d="m 136.86924,273.57456 c 2.6e-4,-3.00485 2.6e-4,-6.00996 0,-9.01534 2.02192,-0.10902 4.0435,-0.21829 6.06486,-0.32783"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.457356;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 171.27984,264.36406 c 1.70195,0 3.40364,0 4.172,1.06946 0.76835,1.06947 0.60368,3.2081 0.43902,5.34658"
+       id="path3052"
+       inkscape:path-effect="#path-effect3054"
+       inkscape:original-d="m 171.27984,264.36406 c 1.70195,2.2e-4 3.40364,2.2e-4 5.10505,0 -0.16441,2.13895 -0.32908,4.27758 -0.49403,6.41604"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.57371;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.13333;stroke-dasharray:none;stroke-opacity:1"
+       d="m 202.54614,263.66526 c 12.39557,0.0546 24.7908,0.10927 37.18566,0.16391"
+       id="path2984-9"
+       inkscape:path-effect="#path-effect9971"
+       inkscape:original-d="m 202.54614,263.66526 c 12.39557,0.0549 24.7908,0.10954 37.18566,0.16391"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.484807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7875)"
+       d="m 244.15951,275.08342 c 0.063,-1.60284 0.12605,-3.20588 0.18909,-4.80914"
+       id="path3004-3"
+       inkscape:path-effect="#path-effect9975"
+       inkscape:original-d="m 244.15951,275.08342 c 0.0633,-1.60283 0.12635,-3.20587 0.18909,-4.80914"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.513881;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 299.20388,263.3704 c -10.80078,-0.0124 -21.60307,-0.0249 -32.40687,-0.0373"
+       id="path3004-3-4"
+       inkscape:path-effect="#path-effect2749"
+       inkscape:original-d="m 299.20388,263.3704 c -10.80078,-0.0124 -21.60307,-0.025 -32.40687,-0.0373"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.347839;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7875)"
+       d="m 327.18234,283.16349 c -2.95028,-0.0188 -5.90098,-0.0376 -8.85209,-0.0564"
+       id="path3004-3-4-8"
+       inkscape:path-effect="#path-effect3496"
+       inkscape:original-d="m 327.18234,283.16349 c -2.95028,-0.0188 -5.90098,-0.0378 -8.85209,-0.0564"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.347839;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7875-4)"
+       d="m 349.69549,283.32664 c -2.95028,-0.0188 -5.90098,-0.0376 -8.85209,-0.0564"
+       id="path3004-3-4-8-5"
+       inkscape:path-effect="#path-effect25596"
+       inkscape:original-d="m 349.69549,283.32664 c -2.95028,-0.0188 -5.90098,-0.0378 -8.85209,-0.0564"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.402784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7875-4-1)"
+       d="m 369.12419,283.79777 c -3.95596,-0.0188 -7.91248,-0.0376 -11.86955,-0.0564"
+       id="path3004-3-4-8-5-5"
+       inkscape:path-effect="#path-effect25743"
+       inkscape:original-d="m 369.12419,283.79777 c -3.95596,-0.0188 -7.91248,-0.0378 -11.86955,-0.0564"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7875-4-1-2)"
+       d="m 366.80294,300.30752 c -1.35818,-0.0265 -2.71656,-0.0531 -4.0751,-0.0796"
+       id="path3004-3-4-8-5-5-3"
+       inkscape:path-effect="#path-effect25810"
+       inkscape:original-d="m 366.80294,300.30752 c -1.35818,-0.0265 -2.71655,-0.0534 -4.0751,-0.0796"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.507332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.13333;stroke-dasharray:none;stroke-opacity:1"
+       d="m 196.62365,273.17407 c 0,-3.08294 0,-6.16615 1.01041,-7.76396 1.01041,-1.5978 3.03091,-1.70992 5.0512,-1.82202"
+       id="path3032-8"
+       inkscape:path-effect="#path-effect9979"
+       inkscape:original-d="m 196.62365,273.17407 c 2.6e-4,-3.08294 2.6e-4,-6.16615 0,-9.24963 2.02084,-0.11185 4.04134,-0.22396 6.06161,-0.33635"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.13333;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260.75122,272.67581 c 0,-3.00485 0,-6.00996 1.01095,-7.5673 1.01096,-1.55733 3.03254,-1.66661 5.05391,-1.77587"
+       id="path3032-8-0"
+       inkscape:path-effect="#path-effect12155"
+       inkscape:original-d="m 260.75122,272.67581 c 2.6e-4,-3.00485 2.6e-4,-6.00996 0,-9.01534 2.02192,-0.10902 4.0435,-0.21829 6.06486,-0.32783"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.13333;stroke-dasharray:none;stroke-opacity:1"
+       d="m 304.80477,272.72657 c 0,-3.00485 0,-6.00912 -0.93227,-7.56688 -0.93228,-1.55775 -2.79655,-1.66703 -4.66064,-1.77629"
+       id="path3032-8-0-0"
+       inkscape:path-effect="#path-effect24906"
+       inkscape:original-d="m 304.80477,272.72657 c 2.6e-4,-3.00485 2.6e-4,-6.00912 0,-9.01534 -1.86456,-0.10904 -3.72883,-0.21832 -5.59291,-0.32783"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.457356;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 239.7202,263.79793 c 1.70195,0 3.40364,0 4.172,1.06946 0.76835,1.06947 0.60368,3.2081 0.43902,5.34658"
+       id="path3052-9"
+       inkscape:path-effect="#path-effect9983"
+       inkscape:original-d="m 239.7202,263.79793 c 1.70195,2.2e-4 3.40364,2.2e-4 5.10505,0 -0.16441,2.13895 -0.32908,4.27758 -0.49403,6.41604"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.470103;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 201.96262,293.26067 c -0.0624,3.68236 -0.12471,7.3645 -0.18706,11.04648"
+       id="path3072"
+       inkscape:path-effect="#path-effect3074"
+       inkscape:original-d="m 201.96262,293.26067 c -0.0621,3.68236 -0.1244,7.36451 -0.18706,11.04648"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.251628px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 169.30287,281.48814 c 0.14685,-0.0553 0.29356,-0.11046 5.71643,-0.15185 5.42287,-0.0414 16.12135,-0.069 26.8198,-0.0966"
+       id="path3365-1"
+       inkscape:path-effect="#path-effect1428"
+       inkscape:original-d="m 169.30287,281.48814 c 0.14695,-0.055 0.29368,-0.11015 0.44017,-0.16563 10.69913,-0.0274 21.39761,-0.055 32.09606,-0.0828"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 202.03241,285.68665 c 0.0362,-0.0624 0.0724,-0.12483 1.41108,-0.17177 1.33874,-0.0469 3.97972,-0.0782 6.6207,-0.10941"
+       id="path3365-1-47"
+       inkscape:path-effect="#path-effect16132"
+       inkscape:original-d="m 202.03241,285.68665 c 0.0363,-0.0623 0.0726,-0.12468 0.10866,-0.18748 2.64116,-0.031 5.28214,-0.0623 7.92312,-0.0937"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.238319px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 235.60219,280.83096 c 0.1328,-0.0548 0.26548,-0.10956 5.16972,-0.15062 4.90425,-0.0411 14.57956,-0.0685 24.25485,-0.0959"
+       id="path3365-1-0"
+       inkscape:path-effect="#path-effect10209"
+       inkscape:original-d="m 235.60219,280.83096 c 0.13289,-0.0546 0.2656,-0.10926 0.39807,-0.16428 9.6759,-0.0272 19.35121,-0.0546 29.0265,-0.0822"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.553961;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 201.96092,293.25672 c -0.0196,-0.0691 -0.0391,-0.13809 -0.0537,-2.68688 -0.0146,-2.54879 -0.0244,-7.57727 -0.0342,-12.60575"
+       id="path3365-1-0-1"
+       inkscape:path-effect="#path-effect15815"
+       inkscape:original-d="m 201.96092,293.25672 c -0.0195,-0.0691 -0.039,-0.13812 -0.0586,-0.20688 -0.01,-5.02879 -0.0195,-10.05727 -0.0293,-15.08575"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465685;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 265.34603,288.08998 c -0.0195,-0.0488 -0.0391,-0.0976 -0.0537,-1.89877 -0.0146,-1.80121 -0.0244,-5.35477 -0.0342,-8.90833"
+       id="path3365-1-0-1-9"
+       inkscape:path-effect="#path-effect2558"
+       inkscape:original-d="m 265.34603,288.08998 c -0.0195,-0.0488 -0.039,-0.0976 -0.0586,-0.1462 -0.01,-3.55378 -0.0195,-7.10734 -0.0293,-10.6609"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.241863px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 235.15535,282.96496 c 0.13424,-0.0558 0.26835,-0.11162 5.22591,-0.15347 4.95756,-0.0418 14.73806,-0.0698 24.51851,-0.0977"
+       id="path3365-1-0-8"
+       inkscape:path-effect="#path-effect10278"
+       inkscape:original-d="m 235.15535,282.96496 c 0.13434,-0.0556 0.26848,-0.11132 0.4024,-0.16738 9.78107,-0.0277 19.56157,-0.0556 29.34202,-0.0838"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.242081px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 235.15541,285.42365 c 0.13453,-0.0558 0.26891,-0.11159 5.23697,-0.15341 4.96805,-0.0418 14.76924,-0.0697 24.57041,-0.0976"
+       id="path3365-1-0-8-0"
+       inkscape:path-effect="#path-effect10379"
+       inkscape:original-d="m 235.15541,285.42365 c 0.13462,-0.0556 0.26904,-0.11128 0.40324,-0.16733 9.80178,-0.0277 19.60297,-0.0556 29.40414,-0.0837"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.252198px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 169.3815,284.27416 c 0.1476,-0.0552 0.29505,-0.11041 5.74525,-0.15178 5.45019,-0.0414 16.20258,-0.069 26.95495,-0.0966"
+       id="path3365-1-4"
+       inkscape:path-effect="#path-effect1537"
+       inkscape:original-d="m 169.3815,284.27416 c 0.14769,-0.055 0.29517,-0.1101 0.44239,-0.16555 10.75305,-0.0274 21.50544,-0.055 32.25781,-0.0828"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.252454px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 168.72591,287.22455 c 0.14796,-0.0552 0.29578,-0.11035 5.75966,-0.15171 5.46387,-0.0413 16.24324,-0.0689 27.02259,-0.0965"
+       id="path3365-1-2"
+       inkscape:path-effect="#path-effect1604"
+       inkscape:original-d="m 168.72591,287.22455 c 0.14807,-0.0549 0.2959,-0.11004 0.4435,-0.16546 10.78003,-0.0275 21.5594,-0.0549 32.33875,-0.0828"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25203px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 169.29984,289.92939 c 0.1472,-0.0553 0.29429,-0.11054 5.73074,-0.15196 5.43645,-0.0414 16.16171,-0.0691 26.88695,-0.0967"
+       id="path3365-1-1"
+       inkscape:path-effect="#path-effect1663"
+       inkscape:original-d="m 169.29984,289.92939 c 0.14731,-0.055 0.29441,-0.11023 0.44127,-0.16574 10.72592,-0.0275 21.45118,-0.055 32.17642,-0.0829"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.13333;stroke-dasharray:none;stroke-opacity:1"
+       d="m 194.76113,310.16574 c -15.06314,0.0545 -30.12665,0.10899 -45.19053,0.16349"
+       id="path3922"
+       inkscape:path-effect="#path-effect3924"
+       inkscape:original-d="m 194.76113,310.16574 c -15.06314,0.0548 -30.12665,0.10925 -45.19053,0.16349"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.452973;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.13333;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7875);marker-mid:url(#ExperimentalArrow)"
+       d="m 145.15529,322.34567 c 0.0214,-2.93917 0.0427,-5.87862 0.0641,-8.81833"
+       id="path4127"
+       inkscape:path-effect="#path-effect4129"
+       inkscape:original-d="m 145.15529,322.34567 c 0.0216,-2.93917 0.043,-5.87862 0.0641,-8.81833"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.13333;stroke-dasharray:none;stroke-opacity:1"
+       d="m 149.68262,310.28602 c -1.43061,-0.0296 -2.86151,-0.0591 -3.60572,0.48795 -0.74421,0.54708 -0.80142,1.67046 -0.85863,2.79362"
+       id="path4155"
+       inkscape:path-effect="#path-effect4157"
+       inkscape:original-d="m 149.68262,310.28602 c -1.43062,-0.0293 -2.86151,-0.0589 -4.29269,-0.0887 -0.057,1.12374 -0.11416,2.24712 -0.17166,3.37027"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.481097;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.13333;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7875);marker-mid:url(#marker7875)"
+       d="m 150.2513,324.23892 c 0.0355,-1.41114 0.071,-2.82239 0.10643,-4.23376"
+       id="path4127-8"
+       inkscape:path-effect="#path-effect2007"
+       inkscape:original-d="m 150.2513,324.23892 c 0.0359,-1.41113 0.0714,-2.82238 0.10643,-4.23376"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.13333;stroke-dasharray:none;stroke-opacity:1"
+       d="m 154.61859,317.08592 c -1.3657,-0.0273 -2.73165,-0.0547 -3.44209,0.45088 -0.71044,0.50554 -0.76506,1.54364 -0.81967,2.58153"
+       id="path4155-0"
+       inkscape:path-effect="#path-effect2011"
+       inkscape:original-d="m 154.61859,317.08592 c -1.3657,-0.0271 -2.73166,-0.0544 -4.09789,-0.082 -0.0544,1.03843 -0.10898,2.07653 -0.16387,3.11441"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#8c93d3;stroke:#1b3fda;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker19533)"
+       d="m 206.77906,302.12379 c -0.0273,-2.24966 -0.0546,-4.49916 -0.0819,-6.74849"
+       id="path5401"
+       inkscape:path-effect="#path-effect5403"
+       inkscape:original-d="m 206.77906,302.12379 c -0.027,-2.24966 -0.0544,-4.49916 -0.0819,-6.74849"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="mix-blend-mode:normal;fill:#bc2122;fill-opacity:1;stroke:#0a18f1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker22652)"
+       d="m 206.04143,272.50908 c 2.24966,-0.0273 4.49916,-0.0546 6.74849,-0.0819"
+       id="path5401-9"
+       inkscape:path-effect="#path-effect16499"
+       inkscape:original-d="m 206.04143,272.50908 c 2.24966,-0.027 4.49916,-0.0544 6.74849,-0.0819"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.5;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker19533)"
+       d="m 105.41886,370.42905 c 3.52444,-0.0273 7.04862,-0.0546 10.57254,-0.0819"
+       id="path5401-7"
+       inkscape:path-effect="#path-effect5937"
+       inkscape:original-d="m 105.41886,370.42905 c 3.52444,-0.027 7.04862,-0.0544 10.57254,-0.0819"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="228.97581"
+       y="302.98251"
+       id="text129208-1-0-4"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="228.97581"
+         y="302.98251"
+         id="tspan18656">Glycol Inlet (2C)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="377.40454"
+       y="266.70453"
+       id="text129208-1-0-4-1"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="377.40454"
+         y="266.70453"
+         id="tspan18656-9">Glycol (2C)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="224.70827"
+       y="270.54907"
+       id="text129208-1-0-4-85"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="224.70827"
+         y="270.54907"
+         id="tspan18656-4">Glycol Outlet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="165.88991"
+       y="307.13284"
+       id="text129208-1-0-4-8"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="166.45059"
+         y="307.13284"
+         id="tspan10485-1">Liquid reflux </tspan></text>
+    <rect
+       style="fill:#bde6dd;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1393"
+       width="37.864426"
+       height="42.126225"
+       x="118.10094"
+       y="332.9119"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#bde6dd;fill-opacity:1;stroke:#000000;stroke-width:0.111755;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1393-4"
+       width="8.0794458"
+       height="9.8626709"
+       x="311.45349"
+       y="279.9595"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#bde6dd;fill-opacity:1;stroke:#000000;stroke-width:0.111755;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1393-4-2"
+       width="8.0794458"
+       height="9.8626709"
+       x="351.64001"
+       y="279.01718"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.517181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 196.62226,273.17135 c 0.0253,1.58292 0.0506,3.1656 0.0759,4.74798"
+       id="path10479"
+       inkscape:path-effect="#path-effect10481"
+       inkscape:original-d="m 196.62226,273.17135 c 0.0256,1.58292 0.0509,3.1656 0.0759,4.74798"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.517181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260.75122,272.67581 c 0.0253,1.58292 0.0506,3.1656 0.0759,4.74798"
+       id="path10479-0"
+       inkscape:path-effect="#path-effect12075"
+       inkscape:original-d="m 260.75122,272.67581 c 0.0256,1.58292 0.0509,3.1656 0.0759,4.74798"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 194.76027,310.16553 c 2.20307,0 4.40587,0 5.57495,-0.9763 1.16907,-0.9763 1.3047,-2.92905 1.44034,-4.88208"
+       id="path12520"
+       inkscape:path-effect="#path-effect12522"
+       inkscape:original-d="m 194.76027,310.16553 c 2.20307,2.6e-4 4.40587,2.6e-4 6.60841,0 0.13589,-1.95258 0.27152,-3.90533 0.40688,-5.85838"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 311.72736,283.30629 c -2.29563,0 -4.59032,0 -5.74636,-0.96343 -1.15604,-0.96344 -1.1724,-2.89045 -1.18877,-4.81771"
+       id="path12520-5"
+       inkscape:path-effect="#path-effect25127"
+       inkscape:original-d="m 311.72736,283.30629 c -2.29563,2.6e-4 -4.59032,2.6e-4 -6.88603,0 -0.0161,-1.92687 -0.0325,-3.85388 -0.0491,-5.78114"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 362.72784,300.22792 c -2.34707,-0.0393 -4.69316,-0.0785 -5.86256,-1.05483 -1.1694,-0.97631 -1.16106,-2.8898 -1.15273,-4.80355"
+       id="path12520-5-6"
+       inkscape:path-effect="#path-effect25875"
+       inkscape:original-d="m 362.72784,300.22792 c -2.34707,-0.039 -4.69316,-0.0783 -7.04029,-0.11779 0.009,-1.91335 0.0169,-3.82684 0.025,-5.74059"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 262.42139,288.47421 c -0.0604,7.5477 -0.12086,15.09494 -0.18128,22.64183"
+       id="path3072-6"
+       inkscape:path-effect="#path-effect15648"
+       inkscape:original-d="m 262.42139,288.47421 c -0.0602,7.5477 -0.12056,15.09494 -0.18128,22.64183"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 355.71955,288.91536 c -0.002,1.81818 -0.005,3.63623 -0.007,5.45423"
+       id="path3072-6-9"
+       inkscape:path-effect="#path-effect26656"
+       inkscape:original-d="m 355.71955,288.91536 c -0.002,1.81818 -0.004,3.63623 -0.007,5.45423"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7875-4-1-2-8)"
+       d="m 326.75616,302.23038 c -1.35818,-0.0265 -2.71656,-0.0531 -4.0751,-0.0796"
+       id="path3004-3-4-8-5-5-3-2"
+       inkscape:path-effect="#path-effect27378"
+       inkscape:original-d="m 326.75616,302.23038 c -1.35818,-0.0265 -2.71655,-0.0534 -4.0751,-0.0796"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 322.68106,302.15078 c -2.34707,-0.0393 -4.69316,-0.0785 -5.86256,-1.05483 -1.1694,-0.97631 -1.16106,-2.8898 -1.15273,-4.80355"
+       id="path12520-5-6-3"
+       inkscape:path-effect="#path-effect27382"
+       inkscape:original-d="m 322.68106,302.15078 c -2.34707,-0.039 -4.69316,-0.0783 -7.04029,-0.11779 0.009,-1.91335 0.0169,-3.82684 0.025,-5.74059"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 315.67277,290.83822 c -0.002,1.81818 -0.005,3.63623 -0.007,5.45423"
+       id="path3072-6-9-9"
+       inkscape:path-effect="#path-effect27386"
+       inkscape:original-d="m 315.67277,290.83822 c -0.002,1.81818 -0.004,3.63623 -0.007,5.45423"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.13333;stroke-dasharray:none;stroke-opacity:1"
+       d="m 255.25165,316.92432 c -33.54842,0.0531 -67.09767,0.10619 -100.64773,0.15929"
+       id="path3922-5"
+       inkscape:path-effect="#path-effect15652"
+       inkscape:original-d="m 255.25165,316.92432 c -33.54842,0.0533 -67.09767,0.10644 -100.64773,0.15929"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 255.25165,316.92432 c 2.20307,0 4.40587,0 5.57495,-0.9763 1.16907,-0.9763 1.3047,-2.92905 1.44034,-4.88208"
+       id="path12520-2"
+       inkscape:path-effect="#path-effect15656"
+       inkscape:original-d="m 255.25165,316.92432 c 2.20307,2.6e-4 4.40587,2.6e-4 6.60841,0 0.13589,-1.95258 0.27152,-3.90533 0.40688,-5.85838"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#3f93d3;fill-opacity:1;stroke:#2138dc;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.792381"
+       d="m 206.12343,277.83636 c -0.0273,-1.74818 -0.0547,-3.4966 -0.0683,-4.38449 -0.0137,-0.88789 -0.0137,-0.91519 -0.0137,-0.94279"
+       id="path16587"
+       inkscape:path-effect="#path-effect16589"
+       inkscape:original-d="m 206.12343,277.83636 c -0.0271,-1.74818 -0.0544,-3.4966 -0.082,-5.24528 2.7e-4,-0.0271 2.7e-4,-0.0544 0,-0.082"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#8c93d3;stroke:#1554ce;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.819048"
+       d="m 206.77906,302.12379 c 1.74818,-0.0273 3.4966,-0.0547 4.38449,-0.0683 0.88789,-0.0137 0.91519,-0.0137 0.94279,-0.0137"
+       id="path16587-6"
+       inkscape:path-effect="#path-effect16785"
+       inkscape:original-d="m 206.77906,302.12379 c 1.74818,-0.0271 3.4966,-0.0544 5.24528,-0.082 0.0271,2.7e-4 0.0544,2.7e-4 0.082,0"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#8c93d3;stroke:#1b3fda;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker19533)"
+       d="m 267.85949,297.5027 c -0.0273,-2.24966 -0.0546,-4.49916 -0.0819,-6.74849"
+       id="path5401-8"
+       inkscape:path-effect="#path-effect1683"
+       inkscape:original-d="m 267.85949,297.5027 c -0.027,-2.24966 -0.0544,-4.49916 -0.0819,-6.74849"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="mix-blend-mode:normal;fill:#bc2122;fill-opacity:1;stroke:#0a18f1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)"
+       d="m 267.06391,272.06059 c 2.24966,-0.0273 4.49916,-0.0546 6.74849,-0.0819"
+       id="path5401-9-3"
+       inkscape:path-effect="#path-effect1687"
+       inkscape:original-d="m 267.06391,272.06059 c 2.24966,-0.027 4.49916,-0.0544 6.74849,-0.0819"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="282.36478"
+       y="306.69504"
+       id="text129208-1-0-4-2"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="282.36478"
+         y="306.69504"
+         id="tspan18656-1">Glycol Inlet (-17C)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="284.05087"
+       y="277.32266"
+       id="text129208-1-0-4-85-3"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="284.05087"
+         y="277.32266"
+         id="tspan18656-4-0">Glycol Outlet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="326.17691"
+       y="307.8504"
+       id="text129208-1-0-4-85-3-9"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="326.17691"
+         y="307.8504"
+         id="tspan18656-4-0-8">Condensate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="364.54764"
+       y="306.38632"
+       id="text129208-1-0-4-85-3-9-3"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="364.54764"
+         y="306.38632"
+         id="tspan18656-4-0-8-3">Condensate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="376.24753"
+       y="288.87573"
+       id="text129208-1-0-4-85-3-9-3-9"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="376.24753"
+         y="288.87573"
+         id="tspan18656-4-0-8-3-6">Vent</tspan></text>
+    <path
+       style="fill:#3f93d3;fill-opacity:1;stroke:#2138dc;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.792381"
+       d="m 267.14591,277.38787 c -0.0273,-1.74818 -0.0547,-3.4966 -0.0683,-4.38448 -0.0137,-0.88789 -0.0137,-0.91519 -0.0137,-0.94279"
+       id="path16587-61"
+       inkscape:path-effect="#path-effect1691"
+       inkscape:original-d="m 267.14591,277.38787 c -0.0271,-1.74818 -0.0544,-3.4966 -0.082,-5.24527 2.7e-4,-0.0271 2.7e-4,-0.0544 0,-0.082"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#8c93d3;stroke:#1554ce;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.819048"
+       d="m 267.85949,297.5027 c 1.74818,-0.0273 3.4966,-0.0547 4.38449,-0.0683 0.88789,-0.0137 0.91519,-0.0137 0.94279,-0.0137"
+       id="path16587-6-1"
+       inkscape:path-effect="#path-effect1695"
+       inkscape:original-d="m 267.85949,297.5027 c 1.74818,-0.0271 3.4966,-0.0544 5.24528,-0.082 0.0271,2.7e-4 0.0544,2.7e-4 0.082,0"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="mix-blend-mode:normal;fill:#bc2122;fill-opacity:1;stroke:#0a18f1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-0)"
+       d="m 357.63552,273.80202 c 2.24966,-0.0273 4.49916,-0.0546 6.74849,-0.0819"
+       id="path5401-9-3-7"
+       inkscape:path-effect="#path-effect31284"
+       inkscape:original-d="m 357.63552,273.80202 c 2.24966,-0.027 4.49916,-0.0544 6.74849,-0.0819"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#3f93d3;fill-opacity:1;stroke:#2138dc;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.792381"
+       d="m 357.71752,279.1293 c -0.0273,-1.74818 -0.0547,-3.4966 -0.0683,-4.38448 -0.0137,-0.88789 -0.0137,-0.91519 -0.0137,-0.94279"
+       id="path16587-61-6"
+       inkscape:path-effect="#path-effect31288"
+       inkscape:original-d="m 357.71752,279.1293 c -0.0271,-1.74818 -0.0544,-3.4966 -0.082,-5.24527 2.7e-4,-0.0271 2.7e-4,-0.0544 0,-0.082"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="mix-blend-mode:normal;fill:#bc2122;fill-opacity:1;stroke:#0a18f1;stroke-width:0.537043;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-0-5)"
+       d="m 367.40456,267.93824 c -3.30748,-0.0214 -6.61474,-0.0429 -9.92174,-0.0643"
+       id="path5401-9-3-7-1"
+       inkscape:path-effect="#path-effect31437"
+       inkscape:original-d="m 367.40456,267.93824 c -3.30748,-0.0212 -6.61474,-0.0427 -9.92174,-0.0643"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#3f93d3;fill-opacity:1;stroke:#2138dc;stroke-width:0.729073;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.792381"
+       d="m 354.70175,279.16949 c -0.0264,-3.84276 -0.0529,-7.68603 -0.0661,-9.63774 -0.0132,-1.95172 -0.0132,-2.0117 -0.0132,-2.07236"
+       id="path16587-61-6-5"
+       inkscape:path-effect="#path-effect31441"
+       inkscape:original-d="m 354.70175,279.16949 c -0.0262,-3.84276 -0.0526,-7.68603 -0.0793,-11.52986 2.7e-4,-0.0596 2.7e-4,-0.11958 0,-0.18024"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 265.48175,282.80963 c 1.45875,0 2.91722,0 4.37544,0"
+       id="path2730"
+       inkscape:path-effect="#path-effect2732"
+       inkscape:original-d="m 265.48175,282.80963 c 1.45875,2.6e-4 2.91722,2.6e-4 4.37544,0"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 304.80477,272.72657 c -0.004,1.59965 -0.008,3.19915 -0.0126,4.79858"
+       id="path3072-6-9-8"
+       inkscape:path-effect="#path-effect27714"
+       inkscape:original-d="m 304.80477,272.72657 c -0.004,1.59965 -0.008,3.19915 -0.0126,4.79858"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.143287px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 354.70184,279.1688 c 0.0603,0.0434 0.12075,0.0868 0.16617,1.69286 0.0454,1.60607 0.0756,4.77445 0.10588,7.94282"
+       id="path3365-1-0-4"
+       inkscape:path-effect="#path-effect28371"
+       inkscape:original-d="m 354.70184,279.1688 c 0.0602,0.0435 0.12061,0.087 0.18135,0.13036 0.0301,3.16857 0.0602,6.33695 0.0907,9.50532"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.143287px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 353.22128,279.08016 c 0.0603,0.0434 0.12075,0.0868 0.16617,1.69286 0.0454,1.60607 0.0756,4.77445 0.10588,7.94282"
+       id="path3365-1-0-4-4"
+       inkscape:path-effect="#path-effect29168"
+       inkscape:original-d="m 353.22128,279.08016 c 0.0602,0.0435 0.12061,0.087 0.18135,0.13036 0.0301,3.16857 0.0602,6.33695 0.0907,9.50532"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.143287px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 357.71752,279.1293 c 0.0603,0.0433 0.12075,0.0868 0.16617,1.69286 0.0454,1.60607 0.0756,4.77445 0.10588,7.94282"
+       id="path3365-1-0-4-9"
+       inkscape:path-effect="#path-effect28960"
+       inkscape:original-d="m 357.71752,279.1293 c 0.0602,0.0435 0.12061,0.087 0.18135,0.13036 0.0301,3.16857 0.0602,6.33695 0.0907,9.50532"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.143287px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 356.40958,279.12807 c 0.0603,0.0434 0.12075,0.0868 0.16617,1.69286 0.0454,1.60607 0.0756,4.77445 0.10588,7.94282"
+       id="path3365-1-0-4-6"
+       inkscape:path-effect="#path-effect29035"
+       inkscape:original-d="m 356.40958,279.12807 c 0.0602,0.0435 0.12061,0.087 0.18135,0.13036 0.0301,3.16857 0.0602,6.33695 0.0907,9.50532"
+       inkscape:export-filename="C:\Users\paulx\OneDrive\Documents\Technical_Projects\Python\McCabeThiele\vacuumPumpSchematic.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
